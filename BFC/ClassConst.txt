@@ -1,0 +1,11 @@
+Class object, 
+Declaration of Array of Object
+static variable in class
+
+
+1)WAP to define a class Student with attributes rollno, name , marks accept data for 2 objects and display them.
+2)WAP to define a class Book with attributes id, name , price accept data for 5 objects display book with highest price.
+3)WAP to define a class Bank accept customerid, name, balance write method  to perform deposit, checkbal, withdraw keep min balance 1000.
+4)WAP to define a class Employee with attributes id, name ,designation  accept data for 5 objects and display employee details whose designation is Manager.
+5)WAP to define Class Simpleinterest with attributes principalamount,  rate of interest static ,number of years calculate SI and display it. 
+6)Write a program Complex number to add the real and imaginary part for 2 complex numbers
